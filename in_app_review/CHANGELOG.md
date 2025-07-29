@@ -1,6 +1,6 @@
 # Alterações
 
-## [2.0.11]
+## [2.0.12]
 
 - Atualizado Pacotes e Corrigido Erro de PackageManager;
 
